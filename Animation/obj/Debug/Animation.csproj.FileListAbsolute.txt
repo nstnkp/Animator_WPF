@@ -1,0 +1,73 @@
+D:\Code\Pro WPF\Chapter15\Animation\bin\Debug\Animation.exe.config
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\bin\Debug\Animation.exe.config
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\bin\Debug\Animation.exe
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\bin\Debug\Animation.pdb
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation.csprojAssemblyReference.cache
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\AnimationInStyle.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\AnimationPlayer.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CachingTest2.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Easing.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\ImageWipe.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\FrameRates.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Menu.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CodeAnimation.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\AnimationInStyle.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\AnimationPlayer.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CachingTest.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CachingTest2.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CustomEasingFunction.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Easing.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\ImageWipe.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\FrameRates.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Menu.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CodeAnimation.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\XamlAnimation.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\App.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.cache
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.lref
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CachingTest.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\CustomEasingFunction.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\XamlAnimation.baml
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation.g.resources
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation.Properties.Resources.resources
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation.csproj.GenerateResource.cache
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation.exe
+F:\Жанна\КОЛЛЕДЖ\3 КУРС\КПиЯП\КНИГИ ПО КПиЯП\Файлы\Pro WPF 4.5 in C#\Chapter15\Animation\obj\Debug\Animation.pdb
+C:\Users\artik\OneDrive\Рабочий стол\Animation\bin\Debug\Animation.exe.config
+C:\Users\artik\OneDrive\Рабочий стол\Animation\bin\Debug\Animation.exe
+C:\Users\artik\OneDrive\Рабочий стол\Animation\bin\Debug\Animation.pdb
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation.csproj.AssemblyReference.cache
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\AnimationInStyle.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\AnimationPlayer.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CachingTest2.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Easing.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\ImageWipe.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\FrameRates.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Menu.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CodeAnimation.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\AnimationInStyle.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\AnimationPlayer.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CachingTest.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CachingTest2.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CustomEasingFunction.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Easing.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\ImageWipe.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\FrameRates.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Menu.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CodeAnimation.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\XamlAnimation.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\App.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation_MarkupCompile.cache
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation_MarkupCompile.lref
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CachingTest.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\CustomEasingFunction.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\XamlAnimation.baml
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation.g.resources
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation.csproj.GenerateResource.cache
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation.exe
+C:\Users\artik\OneDrive\Рабочий стол\Animation\obj\Debug\Animation.pdb
